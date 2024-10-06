@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit-khoiwal
 - 👀 I’m interested in Full Stack Web Developer
-- 🌱 I’m currently learning Php
+- 🌱 Current Position Sr. Full Stack Developer
 - 💞️ I’m looking to collaborate on Web Developement
 - 📫 You Can reach me on this 7878494207
 
